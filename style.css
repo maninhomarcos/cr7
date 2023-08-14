@@ -1,7 +1,8 @@
 body{
-    background-color: aliceblue;
-    
+    background-color: aliceblue;  
 }
+
+.img{}
 
 h1{
     display: flex;
